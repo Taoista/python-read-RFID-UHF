@@ -17,7 +17,7 @@ Módulo lector RFID UHF YRM100
 
 link de descarga del driver
 
-https://drive.google.com/drive/folders/1tjQlD7yCfjuwe7273MDvQf1Jo272pCe9?usp=sharing
+https://drive.google.com/file/d/12umlcMJ7ybuY_GG_qCyKnHlg813JQzcs/view?usp=sharing
 
 ---
 
